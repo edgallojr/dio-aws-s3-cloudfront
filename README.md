@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/85174365/135647334-bfbe89ef-7cca-40bb-8bed-23d90a963fcd.png)
+
+
 # dio-aws-s3-cloudfront
 Exemplo de publicação de sites estáticos com AWS S3 e Cloudfront.
 
